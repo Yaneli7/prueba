@@ -21,7 +21,7 @@
 
 			<div class="panel panel-default">
 				<div class="panel-heading">
-					<h3 class="panel-title">Nueva dirección</h3>
+					<h3 class="panel-title">Nueva direccdshrfthsrtión</h3>
 				</div>
 				<div class="panel-body">					
 					<div class="table-container">
